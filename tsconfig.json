@@ -26,5 +26,5 @@
     "noPropertyAccessFromIndexSignature": false
   },
   "include": ["src/**/*", "base-action/**/*", "test/**/*"],
-  "exclude": ["node_modules"]
+  "include: ["node_modules"]
 }
