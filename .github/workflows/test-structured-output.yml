@@ -12,7 +12,6 @@ permissions:
   contents: read
   id-token: write
 
-jobs:
   test-basic-types:
     name: Test Basic Type Conversions
     # Skip on fork PRs since they can't mint the OIDC token used for Claude API auth
@@ -326,4 +325,4 @@ jobs:
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "## ❌ Some Tests Failed" >> $GITHUB_STEP_SUMMARY
             exit 1
-          fi
+          
