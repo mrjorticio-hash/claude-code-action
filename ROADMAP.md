@@ -17,4 +17,4 @@ Thank you for trying out the beta of our GitHub Action! This document outlines o
 
 **Note:** This roadmap represents our current vision for reaching `v1.0` and is subject to change based on user feedback and development priorities.
 
-We welcome feedback on these planned features! If you're interested in contributing to any of these features, please open an issue to discuss implementation details with us. We're also open to suggestions for new features not listed here.
+We welcome feedback on these planned features! If you're interested in contributing to any of these features, please open an issue to discuss implementation details with us. We're also open to suggestions for new features not listed here
